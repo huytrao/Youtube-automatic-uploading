@@ -3,7 +3,9 @@
 ### Get the code
 
 For the first time in this app, please install library necessary.
+```bash
     python setup.py
+```
 
 ### Run code
 1. get client_secret.json file.
